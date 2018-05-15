@@ -1,0 +1,11 @@
+C:\Happy\Demo\HM.CourseManagement.Web\bin\Debug\netcoreapp2.0\HM.CourseManagement.Web.deps.json
+C:\Happy\Demo\HM.CourseManagement.Web\bin\Debug\netcoreapp2.0\HM.CourseManagement.Web.runtimeconfig.json
+C:\Happy\Demo\HM.CourseManagement.Web\bin\Debug\netcoreapp2.0\HM.CourseManagement.Web.runtimeconfig.dev.json
+C:\Happy\Demo\HM.CourseManagement.Web\bin\Debug\netcoreapp2.0\HM.CourseManagement.Web.dll
+C:\Happy\Demo\HM.CourseManagement.Web\bin\Debug\netcoreapp2.0\HM.CourseManagement.Web.pdb
+C:\Happy\Demo\HM.CourseManagement.Web\obj\Debug\netcoreapp2.0\HM.CourseManagement.Web.csprojAssemblyReference.cache
+C:\Happy\Demo\HM.CourseManagement.Web\obj\Debug\netcoreapp2.0\HM.CourseManagement.Web.csproj.CoreCompileInputs.cache
+C:\Happy\Demo\HM.CourseManagement.Web\obj\Debug\netcoreapp2.0\HM.CourseManagement.Web.AssemblyInfoInputs.cache
+C:\Happy\Demo\HM.CourseManagement.Web\obj\Debug\netcoreapp2.0\HM.CourseManagement.Web.AssemblyInfo.cs
+C:\Happy\Demo\HM.CourseManagement.Web\obj\Debug\netcoreapp2.0\HM.CourseManagement.Web.dll
+C:\Happy\Demo\HM.CourseManagement.Web\obj\Debug\netcoreapp2.0\HM.CourseManagement.Web.pdb
