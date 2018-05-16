@@ -1,0 +1,11 @@
+C:\Happy\Demo\coursemanager\HM.CourseManagement.WebApi\bin\Debug\netcoreapp2.0\HM.CourseManagement.WebApi.deps.json
+C:\Happy\Demo\coursemanager\HM.CourseManagement.WebApi\bin\Debug\netcoreapp2.0\HM.CourseManagement.WebApi.runtimeconfig.json
+C:\Happy\Demo\coursemanager\HM.CourseManagement.WebApi\bin\Debug\netcoreapp2.0\HM.CourseManagement.WebApi.runtimeconfig.dev.json
+C:\Happy\Demo\coursemanager\HM.CourseManagement.WebApi\bin\Debug\netcoreapp2.0\HM.CourseManagement.WebApi.dll
+C:\Happy\Demo\coursemanager\HM.CourseManagement.WebApi\bin\Debug\netcoreapp2.0\HM.CourseManagement.WebApi.pdb
+C:\Happy\Demo\coursemanager\HM.CourseManagement.WebApi\obj\Debug\netcoreapp2.0\HM.CourseManagement.WebApi.csprojAssemblyReference.cache
+C:\Happy\Demo\coursemanager\HM.CourseManagement.WebApi\obj\Debug\netcoreapp2.0\HM.CourseManagement.WebApi.csproj.CoreCompileInputs.cache
+C:\Happy\Demo\coursemanager\HM.CourseManagement.WebApi\obj\Debug\netcoreapp2.0\HM.CourseManagement.WebApi.AssemblyInfoInputs.cache
+C:\Happy\Demo\coursemanager\HM.CourseManagement.WebApi\obj\Debug\netcoreapp2.0\HM.CourseManagement.WebApi.AssemblyInfo.cs
+C:\Happy\Demo\coursemanager\HM.CourseManagement.WebApi\obj\Debug\netcoreapp2.0\HM.CourseManagement.WebApi.dll
+C:\Happy\Demo\coursemanager\HM.CourseManagement.WebApi\obj\Debug\netcoreapp2.0\HM.CourseManagement.WebApi.pdb
